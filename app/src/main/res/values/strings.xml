@@ -73,7 +73,7 @@
     <string name="app_aurora" translatable="false">"Aurora"</string>
     <string name="app_desc">"App management utility"</string>
     <string name="app_details">"Details"</string>
-    <string name="app_name" translatable="false">"Warden"</string>
+    <string name="app_name" translatable="false">"PepsiOs Warden"</string>
 
     <string name="details_title_bundled">"Bundled APK"</string>
     <string name="details_title_category">"Category"</string>
@@ -108,12 +108,12 @@
     <string name="menu_apps">"Apps"</string>
     <string name="menu_debloat">"Debloater"</string>
     <string name="menu_hidden_apps">"Hidden apps"</string>
-    <string name="menu_lab">"Lab"</string>
+    <string name="menu_lab">"PepsiOs Lab"</string>
     <string name="menu_loggers">"All Loggers"</string>
     <string name="menu_scanner">"Scanner"</string>
     <string name="menu_search">"Search"</string>
     <string name="menu_app_usage">"Monitor"</string>
-    <string name="menu_settings">"Settings"</string>
+    <string name="menu_settings">"PepsiOs warden Settings"</string>
     <string name="menu_stats">"Stats"</string>
     <string name="menu_trackers">"All Trackers"</string>
     <string name="menu_warden">"Warden"</string>
@@ -199,7 +199,7 @@
     <string name="title_search">"Search Exodus Report"</string>
     <string name="title_services">"Services"</string>
     <string name="title_services_desc">"List of all available services"</string>
-    <string name="title_warden">"App Warden"</string>
+    <string name="title_warden">"PepsiOs Warden"</string>
 
     <string name="txt_camtono_failed">"Failed"</string>
     <string name="txt_camtono_immutable_permission">"Immutable permission"</string>
